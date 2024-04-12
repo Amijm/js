@@ -5,6 +5,8 @@ console.log(x);
 let employeeName = "abebe";
 console.log(employeeName);
 
+console.log("gitexample");
+
 // const laptopPrice = 2000;
 // console.log(laptopPrice);
 
